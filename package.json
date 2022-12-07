@@ -184,7 +184,7 @@
     "gzip-size": "4.1.0",
     "husky": "0.14.3",
     "klaw-sync": "3.0.2",
-    "lint-staged": "^8.1.6",
+    "lint-staged": "^13.1.0",
     "lodash": "^4.17.11",
     "markdown-doctest": "0.9.1",
     "minimist": "1.2.0",
